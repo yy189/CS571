@@ -1,2 +1,2 @@
 # Compsci-5_7_1
-Assignments of Statistical Machine Learning Course @ D_u_k_e
+Assignments for Statistical Machine Learning class @ D_u_k_e
